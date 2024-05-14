@@ -146,3 +146,5 @@ blockquote {
     margin-bottom: 20px;
     cursor: pointer;
 }
+
+@media screen and (max-width: 1612px) { div.contentblock {width: 720px;} } 
