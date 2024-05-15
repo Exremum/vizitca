@@ -179,7 +179,7 @@ display: none;
 }
 
 .cntct_btn::before {
-top: -20px;
+top: -40px;
 font-size: 12px;
 }
 
@@ -187,5 +187,3 @@ font-size: 12px;
 height: 100vh;
 }
 }
-
-@media screen and (max-width: 1612px) { div.contentblock {width: 720px;} } 
