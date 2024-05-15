@@ -128,8 +128,8 @@ body {
 
 .quote-container {
   position: absolute;
-  top: 31%;
-  left: 41%;
+  top: 29%;
+  left: 50%;
   transform: translate(-50%, -50%);
   font-size: 80px;
   font-weight: none;
