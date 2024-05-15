@@ -149,41 +149,41 @@ blockquote {
 
 @media screen and (max-width: 1024px) {
 
-.time-display {
-font-size: 50px;
-}
+ .time-display {
+ font-size: 50px;
+ }
 
-#date {
-font-size: 20px;
-}
+ #date {
+ font-size: 20px;
+ }
 
-.quote-container {
-font-size: 50px;
-}
+ .quote-container {
+ font-size: 50px;
+ }
 
-blockquote {
-font-size: 18px;
-}
+ blockquote {
+ font-size: 18px;
+ }
 
-.cntct_btn {
-margin: 0 15px;
-font-size: 14px;
-}
+ .cntct_btn {
+ margin: 0 15px;
+ font-size: 14px;
+ }
 
-.cntct_btn img {
-max-width: 80%;
-}
+ .cntct_btn img {
+ max-width: 80%;
+ }
 
-.cntct_btn span {
-display: none;
-}
+ .cntct_btn span {
+ display: none;
+ }
 
-.cntct_btn::before {
-top: -40px;
-font-size: 12px;
-}
+ .cntct_btn::before {
+ top: -20px;
+ font-size: 12px;
+ }
 
-.panel {
-height: 100vh;
-}
+ .panel {
+ height: 100vh;
+ }
 }
